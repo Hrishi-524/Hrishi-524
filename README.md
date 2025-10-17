@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Hrishi</h1>
 
 <p align="center">
-  <em>5th Semester Software Engineering Student | Passionate about Web Dev, Data Science & AI</em>
+  <em>5th Semester Computer Engineering Student | Passionate about Web Dev, Data Science & AI</em>
 </p>
 
 ---
@@ -18,7 +18,8 @@
 ### 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,python,c,cpp,git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,js,ts,&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,py,sklearn,pytorch,tensorflow&theme=dark" />
 </p>
 
 ---
