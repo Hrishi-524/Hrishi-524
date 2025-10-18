@@ -78,7 +78,7 @@ My First Full Stack web app. It is a feature-rich Airbnb-inspired web applicatio
 
 <td width="50%">
   
-### Avora
+### Avora (⭐)
 **Complete Travel Solution**
 
 Deployed : [avora-gamma.vercel.app](https://avora-gamma.vercel.app/)
