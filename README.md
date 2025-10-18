@@ -30,7 +30,7 @@
 
 <div align="center">
 
-### 💻 Frontend & Backend
+### Full Stack 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -41,7 +41,7 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,js,ts,&theme=dark" />
 
-### 🤖 AI & Data Science
+### Data science and Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -64,16 +64,16 @@
 ### 🌍 Wanderlust
 **Full-Stack Travel Platform**
 
-A feature-rich Airbnb-inspired web application with authentication, CRUD operations, and MVC architecture.
+My First Full Stack web app. It is a feature-rich Airbnb-inspired web application with authentication, basic CRUD operations, and MVC architecture.
 
 **Tech:** `Node.js` `Express` `MongoDB` `EJS`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/...)
+[![Repository](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/...)
 
 </td>
 <td width="50%">
 
-### 🛤️ FarmLedger
+###  FarmLedger
 **Blockchain Traceability Platform**
 
 Transparent crop traceability system leveraging blockchain for secure data management.
