@@ -28,11 +28,11 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 🏡 **[Wanderlust](https://github.com/Hrishi-524/Wanderlust-ejs)** | A full-stack web app inspired by Airbnb with authentication, CRUD, and MVC architecture. | Node.js, Express, MongoDB, EJS |
-| 🌾 **[FarmLedger](https://github.com/Hrishi-524/FarmLedger)** | A blockchain-based platform for transparent crop traceability and data management. | JS, Node, Blockchain APIs |
-| 🧠 **[Quiz-Burst](https://github.com/Hrishi-524/Quiz-Burst)** | A dynamic quiz platform with categories, scoring, and responsive UI. | React, JS |
-| ⚽ **[Sports Talent Assessment](https://github.com/Hrishi-524/sports-talent-assesment)** | An analytical tool for evaluating player performance metrics. | JS, Node |
-| 💬 **[Avora](https://github.com/Hrishi-524/Avora)** | A communication-focused app experimenting with real-time interaction. | MERN, JWT, payment |
+|  **[Wanderlust](https://github.com/Hrishi-524/Wanderlust-ejs)** | My First full-stack web app inspired by Airbnb with authentication, CRUD, and MVC architecture. | Node.js, Express, MongoDB, EJS |
+| **[FarmLedger](https://github.com/Hrishi-524/FarmLedger)** | A blockchain-based platform for transparent crop traceability and data management. | JS, Node, Blockchain APIs |
+| **[Quiz-Burst](https://github.com/Hrishi-524/Quiz-Burst)** | A dynamic quiz platform with categories, scoring, and responsive UI. | MERN, socket.io |
+| **[Avora](https://github.com/Hrishi-524/Avora)** | A fullstack travel based web app with all facilities  | MERN, JWT, payment |
+| **[DeepOrbit](https://github.com/Hrishi-524/DeepOrbit)** | Deep Learning Based Sattelite ephemeris and clock corrector | python, tensorflow, DL models like LSTM, Transformers |
 
 ---
 
