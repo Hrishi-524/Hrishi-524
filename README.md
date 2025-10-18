@@ -61,8 +61,8 @@
 <tr>
 <td width="50%">
 
-### 🌍 Wanderlust
-**Full-Stack Travel Platform**
+### Wanderlust
+**Full-Stack Platform**
 
 My First Full Stack web app. It is a feature-rich Airbnb-inspired web application with authentication, basic CRUD operations, and MVC architecture.
 
@@ -71,18 +71,20 @@ My First Full Stack web app. It is a feature-rich Airbnb-inspired web applicatio
 [![Repository](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/...)
 
 </td>
+
 <td width="50%">
 
-###  FarmLedger
-**Blockchain Traceability Platform**
+### Avora
+**Complete Travel Solution**
 
-Transparent crop traceability system leveraging blockchain for secure data management.
+Full-stack travel application with booking, payments, and user management.
 
-**Tech:** `JavaScript` `Node.js` `Blockchain APIs`
+**Tech:** `MERN` `JWT` `Payment Integration`
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/...)
 
 </td>
+
 </tr>
 
 <tr>
@@ -98,24 +100,26 @@ Dynamic quiz application with real-time features, multiple categories, and respo
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/...)
 
 </td>
+
 <td width="50%">
 
-### ✈️ Avora
-**Complete Travel Solution**
+###  FarmLedger
+**Blockchain Traceability Platform**
 
-Full-stack travel application with booking, payments, and user management.
+Transparent crop traceability system leveraging blockchain for secure data management.
 
-**Tech:** `MERN` `JWT` `Payment Integration`
+**Tech:** `JavaScript` `Node.js` `Blockchain APIs`
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/...)
 
 </td>
 </tr>
 
+
 <tr>
 <td colspan="2">
 
-### 🛰️ DeepOrbit
+### DeepOrbit
 **AI-Powered Satellite Ephemeris Corrector**
 
 Deep learning system for satellite ephemeris and clock correction using advanced neural architectures.
@@ -135,16 +139,16 @@ Deep learning system for satellite ephemeris and clock correction using advanced
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=...&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=...&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hrishi-524&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrishi-524&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=...&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrishi-524&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=...&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrishi-524&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -153,7 +157,7 @@ Deep learning system for satellite ephemeris and clock correction using advanced
 
 <div align="center">
 
-| 🧩 Next.js | 🧠 ML & DL | 🤖 LLMs & GenAI | 🔄 AI + Web Integration |
+| Next.js | ML & DL | LLMs & GenAI | AI + Web Integration |
 |:---:|:---:|:---:|:---:|
 | Scalable web architecture | Data-driven systems | Understanding large models | Intelligent experiences |
 
@@ -161,7 +165,7 @@ Deep learning system for satellite ephemeris and clock correction using advanced
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
@@ -175,13 +179,10 @@ Deep learning system for satellite ephemeris and clock correction using advanced
 
 <div align="center">
 
-### 💭 Philosophy
-
-> **"Great projects are built where logic meets imagination — that's where innovation happens."**
 
 <br>
 
-### ⭐ If you find my work interesting, consider starring my repositories!
+### If you find my work interesting, consider starring my repositories!
 
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
