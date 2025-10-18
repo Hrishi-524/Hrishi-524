@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Hrishi
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=5th+Semester+Computer+Engineering+Student;Full+Stack+Developer+%7C+ML+and+DL;Solving+problems+with+my+%26+Intelligence" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=5th+Semester+Computer+Engineering+Student;Full+Stack+Developer+%7C+ML+and+DL+Developer;Solving+problems+with+my+potential" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Hrishi-524&color=00D9FF&style=flat-square&label=Profile+Views)](https://github.com/Hrishi-524)
 
