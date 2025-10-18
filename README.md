@@ -64,6 +64,9 @@
 ### Wanderlust
 **Full-Stack Platform**
 
+Deployed : [wanderlust-pr2o.onrender.com/listing](https://wanderlust-pr2o.onrender.com/listing)
+(may need to wait for 50s or more on cold start, because of render's free tier limitaions)
+
 My First Full Stack web app. It is a feature-rich Airbnb-inspired web application with authentication, basic CRUD operations, and MVC architecture.
 
 **Tech:** `Node.js` `Express` `MongoDB` `EJS`
@@ -77,7 +80,8 @@ My First Full Stack web app. It is a feature-rich Airbnb-inspired web applicatio
 ### Avora
 **Complete Travel Solution**
 
-Deployed : [](https://avora-gamma.vercel.app/)
+Deployed : [avora-gamma.vercel.app](https://avora-gamma.vercel.app/)
+(may need to wait for 50s or more on cold start backend, because of render's free tier limitaions)
 
 Full-stack travel application with booking, payments, and user management.
 
@@ -123,6 +127,8 @@ Transparent crop traceability system leveraging blockchain for secure data manag
 
 ### DeepOrbit
 **AI-Powered Satellite Ephemeris Corrector**
+
+Deployed : [sattelite-gnss-corrector-main.vercel.app](https://sattelite-gnss-corrector-main.vercel.app/)
 
 Deep learning system for satellite ephemeris and clock correction using advanced neural architectures.
 
