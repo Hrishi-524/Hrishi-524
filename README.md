@@ -72,7 +72,7 @@ My First Full Stack web app. It is a feature-rich Airbnb-inspired web applicatio
 
 **Tech:** `Node.js` `Express` `MongoDB` `EJS`
 
-[![Repository](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/...)
+[![Repository](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/wanderlust-ejs)
 
 </td>
 
@@ -105,7 +105,7 @@ Dynamic quiz application with real-time features, multiple categories, and respo
 
 **Tech:** `MERN Stack` `Socket.io`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/...)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Quiz-Burst)
 
 </td>
 
@@ -118,7 +118,7 @@ Transparent crop traceability system leveraging blockchain for secure data manag
 
 **Tech:** `JavaScript` `Node.js` `Blockchain APIs`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/...)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/FarmLedger)
 
 </td>
 </tr>
@@ -136,7 +136,7 @@ Deep learning system for satellite ephemeris and clock correction using advanced
 
 **Tech:** `Python` `TensorFlow` `LSTM` `Transformers`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/...)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Sattelite-GNSS-Corrector)
 
 </td>
 </tr>
