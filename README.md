@@ -77,11 +77,13 @@ My First Full Stack web app. It is a feature-rich Airbnb-inspired web applicatio
 ### Avora
 **Complete Travel Solution**
 
+Deployed : [](https://avora-gamma.vercel.app/)
+
 Full-stack travel application with booking, payments, and user management.
 
 **Tech:** `MERN` `JWT` `Payment Integration`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/...)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Hrishi-524/Avora)
 
 </td>
 
