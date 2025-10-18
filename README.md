@@ -1,43 +1,32 @@
 <div align="center">
 
-# 👋 Hey there, I'm [Your Name]
+# 👋 Hey there, I'm Hrishi
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=5th+Semester+Computer+Engineering+Student;Full+Stack+Developer+%7C+AI+Enthusiast;Building+the+Future+with+Code+%26+Intelligence" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=...&color=00D9FF&style=flat-square&label=Profile+Views)](https://github.com/...)
+[![Profile Views](https://komarev.com/ghpvc/?username=Hrishi-524&color=00D9FF&style=flat-square&label=Profile+Views)](https://github.com/Hrishi-524)
 
 </div>
 
 ---
 
-## 🚀 About Me
-
-```typescript
-const developer = {
-    name: "[Your Name]",
-    role: "Full Stack Developer & AI Enthusiast",
-    education: "5th Sem Computer Engineering",
-    currentFocus: ["MERN Stack", "Next.js", "Machine Learning", "LLMs"],
-    passion: "Building intelligent systems that merge AI with modern web apps",
-    philosophy: "Where logic meets imagination, innovation happens 💡"
-};
-```
+## About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-### 🔥 What I'm Up To
+###  What I'm Up To
 
-- 🌐 **Mastering** the MERN Stack & Next.js for scalable web applications
-- 🤖 **Exploring** Data Science, ML, DL, and Generative AI
-- ⚡ **Building** intelligent systems that combine AI with modern web development
-- 🎯 **Creating** projects that make real-world impact
-- 🧠 **Learning** how LLMs think and create with cutting-edge AI
+- **Mastering** the MERN Stack & Next.js for scalable web applications
+- **Exploring** Data Science, ML, DL, and Generative AI
+- **Building** intelligent systems that combine AI with modern web development
+- **Creating** projects that make real-world impact
+- **Learning** how LLMs think and create with cutting-edge AI
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -49,6 +38,8 @@ const developer = {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,js,ts,&theme=dark" />
 
 ### 🤖 AI & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -56,7 +47,8 @@ const developer = {
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,py,sklearn,pytorch,tensorflow&theme=dark" />
 </div>
 
 ---
