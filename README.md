@@ -136,7 +136,7 @@ Deep learning system for satellite ephemeris and clock correction using advanced
 
 **Tech:** `Python` `TensorFlow` `LSTM` `Transformers`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Sattelite-GNSS-Corrector)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/DeepOrbit)
 
 </td>
 </tr>
