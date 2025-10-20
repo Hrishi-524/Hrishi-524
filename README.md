@@ -94,6 +94,17 @@ Full-stack travel application with booking, payments, and user management.
 </td>
 
 </tr>
+<td>
+### Quiz-Burst
+**Interactive Quiz Platform**
+
+Dynamic quiz application with real-time features, multiple categories, and responsive design.
+
+**Tech:** `MERN Stack` `Socket.io`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Quiz-Burst)
+
+</td>
 
 <tr>
 <td width="50%">
