@@ -94,7 +94,10 @@ Full-stack travel application with booking, payments, and user management.
 </td>
 
 </tr>
-<td>
+
+<tr>
+<td width="50%">
+
 ### Quiz-Burst
 **Interactive Quiz Platform**
 
@@ -105,9 +108,6 @@ Dynamic quiz application with real-time features, multiple categories, and respo
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Quiz-Burst)
 
 </td>
-
-<tr>
-<td width="50%">
 
 <td width="50%">
 
