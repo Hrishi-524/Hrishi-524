@@ -118,7 +118,7 @@ Transparent crop traceability system leveraging blockchain for secure data manag
 
 **Tech:** `JavaScript` `Node.js` `Blockchain APIs`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/FarmLedger)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Hrishi-524/FarmLedger)
 
 </td>
 </tr>
@@ -136,7 +136,7 @@ Deep learning system for satellite ephemeris and clock correction using advanced
 
 **Tech:** `Python` `TensorFlow` `LSTM` `Transformers`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/DeepOrbit)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Hrishi-524/DeepOrbit)
 
 </td>
 </tr>
