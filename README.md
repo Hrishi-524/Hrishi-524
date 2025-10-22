@@ -72,7 +72,7 @@ My First Full Stack web app. It is a feature-rich Airbnb-inspired web applicatio
 
 **Tech:** `Node.js` `Express` `MongoDB` `EJS`
 
-[![Repository](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/wanderlust-ejs)
+[![Repository](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Hrishi-524/wanderlust-ejs)
 
 </td>
 
