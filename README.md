@@ -98,7 +98,7 @@ Full-stack travel application with booking, payments, and user management.
 <tr>
 <td width="50%">
 
-### QUIZ BURST
+### Quizburst
 **Interactive Quiz Platform**
 
 Dynamic quiz application with real-time features, multiple categories, and responsive design.
