@@ -1,3 +1,46 @@
+<div align="center">
+
+# Hi, I'm Hrishi
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Full+Stack+Engineer;Building+Developer+Platforms+and+AI+Systems;Exploring+Systems+Design+and+Machine+Learning" />
+
+</div>
+
+---
+
+## About Me
+
+I’m a **Computer Engineering student** passionate about building systems that combine **software engineering, developer tooling, and AI**.
+
+Recently I've been focusing on projects that go beyond traditional web apps — building **developer platforms, CLI tools, and intelligent systems**.
+
+Some areas I'm currently exploring:
+
+- Full-stack architecture with **Next.js and Node.js**
+- **Developer tooling and platform engineering**
+- **Machine Learning and Deep Learning**
+- **LLMs and AI-powered systems**
+- **System design and scalable architectures**
+
+---
+
+## Featured Project
+
+### Track2Go — Git-Inspired Repository Platform
+
+A full-stack platform inspired by GitHub that allows developers to manage repositories through both a **CLI tool and web interface**.
+
+Features include:
+
+- Custom CLI (`track2go`)
+- Repository explorer with file tree navigation
+- Commit history viewer
+- Issue tracking system
+- Syntax highlighting and Markdown rendering
+- Snapshot-based version control
+- AWS S3 object storage for repository data
+
+Tech stack:
 
 This project explores how modern developer platforms manage **code storage, metadata, and repository browsing**.
 
