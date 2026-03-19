@@ -1,50 +1,52 @@
-# Hey, I'm Hrishi 👋
+# Hrishi Patil
 
-Backend-focused engineer building distributed systems and developer tools.
-
-3rd year Computer Engineering student @ Mumbai
+Backend engineer focused on distributed systems and developer tooling
+3rd year Computer Engineering · Mumbai
 
 ---
 
-## 🚀 What I've Built
+## Work
 
-**Track2Go — Git-inspired code hosting platform**
+**Track2Go — Git-inspired code hosting system**
 
-* Designed a hash-based snapshot and commit-chaining system
-* Built a custom CLI (`init`, `add`, `commit`, `push`) to manage repositories
-* Persisted repository snapshots to AWS S3 with metadata in MongoDB & Redis
-* Deployed production stack (EC2, Caddy, Vercel)
+* Implemented hash-based snapshots and commit chaining
+* Built CLI (`init`, `add`, `commit`, `push`)
+* Stored repository data on AWS S3 with MongoDB + Redis metadata
+* Deployed on EC2 with Caddy, frontend on Vercel
 
 **QuizBurst — Real-time multiplayer system**
 
-* WebSocket-based architecture using Socket.IO
-* Live scoring, leaderboards, and session state synchronization
-* Handles concurrent users with low-latency updates
+* WebSocket architecture using Socket.IO
+* Live scoring, leaderboards, session sync across users
 
 **Avora — Full-stack booking platform**
 
-* JWT authentication, role-based access control
-* Razorpay payment integration
-* Deployed on AWS with Nginx, PM2, and SSL
+* JWT auth, role-based access
+* Razorpay integration
+* Production deployment with Nginx, PM2, SSL
 
 ---
 
-## ⚙️ What I Work With
+## Stack
 
-`Node.js` `Express` `Redis` `PostgreSQL` `MongoDB`
-`AWS` `Docker` `React` `Next.js` `TypeScript`
-
----
-
-## 🧠 Current Focus
-
-* Distributed systems (queues, workers, rate limiting)
-* System design fundamentals
-* Exploring AI systems integration into backend workflows
+Node.js · Express · Redis · PostgreSQL · MongoDB
+AWS · Docker · React · Next.js · TypeScript
 
 ---
 
-## 📬 Contact
+## Focus
 
-📧 [hrishi.patil.dev@gmail.com](mailto:hrishi.patil.dev@gmail.com)
-🔗 https://linkedin.com/in/linkedhrishi
+Distributed systems · system design · backend infrastructure
+Exploring AI integration into production systems
+
+---
+
+## Contact
+
+<a href="mailto:hrishi.patil.dev@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18" />
+</a>
+
+<a href="https://linkedin.com/in/linkedhrishi">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" />
+</a>
