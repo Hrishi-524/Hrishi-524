@@ -3,9 +3,7 @@
 Backend engineer focused on distributed systems and developer tooling
 3rd year Computer Engineering · Mumbai
 
----
-
-## Work
+# Work
 
 **Track2Go — Git-inspired code hosting system**
 
@@ -27,21 +25,21 @@ Backend engineer focused on distributed systems and developer tooling
 
 ---
 
-## Stack
+# Stack
 
 Node.js · Express · Redis · PostgreSQL · MongoDB
 AWS · Docker · React · Next.js · TypeScript
 
 ---
 
-## Focus
+# Focus
 
 Distributed systems · system design · backend infrastructure
 Exploring AI integration into production systems
 
 ---
 
-## Contact
+# Contact
 
 <a href="mailto:hrishi.patil.dev@gmail.com">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18" />
