@@ -21,7 +21,7 @@
 ```ts
 const hrishi = {
   role:       "Backend + AI Engineer",
-  education:  "B.E. Computer Engineering @ Rizvi College of Engineering (CGPA: 9.5/10)",
+  education:  "B.E. Computer Engineering @ University Of Mumbai (CGPA: 9.5/10)",
   honors:     "AI & Machine Learning",
   location:   "Mumbai, India 🇮🇳",
   currently:  ["Building CertJS — async document issuance platform"],
