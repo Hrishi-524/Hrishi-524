@@ -110,7 +110,7 @@ A Git-inspired distributed version control & code hosting platform — built fro
 ### 📜 [CertJS](https://github.com/Hrishi-524/certjs) *(In Progress)*
 **Async Systems · Document Processing · Backend**
 
-A monorepo-based certificate issuance & verification platform with strict service-layer separation.
+A monorepo-based certificate issuance & verification platform with strict service-layer separation. A developer tool.
 
 - 📬 Async job pipeline: API → queue → worker (decoupled from request lifecycle)
 - 🖼️ SVG-overlay rendering engine for dynamic placeholder documents
