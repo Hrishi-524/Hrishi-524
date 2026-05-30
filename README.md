@@ -154,7 +154,7 @@ A live multiplayer quiz platform with event-driven architecture.
 
 <div align="center">
 
-[![Hrishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrishi-524)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats-pi-snowy-86.vercel.app?user=Hrishi-524)](https://git.io/streak-stats)
 
 </div>
 
