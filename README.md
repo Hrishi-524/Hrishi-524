@@ -153,7 +153,7 @@ A live multiplayer quiz platform with event-driven architecture.
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-pi-snowy-86.vercel.app?user=Hrishi-524&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-pi-snowy-86.vercel.app?user=Hrishi-524&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
