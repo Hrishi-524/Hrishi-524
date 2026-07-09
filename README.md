@@ -119,7 +119,9 @@ A live multiplayer quiz platform with event-driven architecture.
 
 </div>
 <div align="center">
-[![Hrishi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hrishi-524)](https://github.com/Hrishi-524/github-readme-activity-graph)
+  
+[![Hrishi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hrishi-524&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ---
