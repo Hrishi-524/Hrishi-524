@@ -72,9 +72,11 @@ A Git-inspired distributed version control & code hosting platform — built fro
 
 Developer-first certificate generation platform with templates, batch processing, webhooks, and public verification.
 
-- 📬 Async job pipeline: API → queue → worker (decoupled from request lifecycle)
-- 🖼️ SVG-overlay rendering engine for dynamic placeholder documents
-- 🔐 Tamper-resistant verification via cryptographic hashing + unique document IDs
+- Architected a developer-first certificate generation and automation platform with a monorepo-based architecture, processing bulk certificate requests through an asynchronous BullMQ pipeline that decouples request handling from background rendering and batch finalization.
+- Designed a production-oriented backend around service-layer abstractions, resource-oriented APIs, dashboard aggregation, and placeholder synchronization, replacing CRUD-based editor operations with backend state reconciliation to simplify frontend complexity.
+- Engineered a multi-stage worker pipeline for concurrent certificate rendering, ZIP archive generation, and artifact storage on AWS S3, incorporating atomic job coordination, configurable profiling, Promise-based template deduplication, and in-memory caching to eliminate redundant network operations.
+- Built a layered Next.js frontend using React Query, reusable component architecture, and centralized API abstractions, enabling backend-driven UI composition with scalable state management and type-safe client-server contracts.
+- Designed the platform for future SDK expansion by separating business logic from transport concerns, establishing REST APIs as the system of record while defining an architecture for a developer-focused JavaScript SDK.
 
 `Node.js` `PostgreSQL` `Drizzle ORM` `Sharp` `Express`
 
