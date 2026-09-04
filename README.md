@@ -71,7 +71,7 @@ A Git-inspired distributed version control & code hosting platform — built fro
 ### 📜 [CertJS](https://github.com/Hrishi-524/certjs)
 **Async Systems · Document Processing · Backend**
 
-Developer-first certificate generation platform with templates, batch processing, webhooks, and public verification — completed and actively maintained.
+Developer-first certificate generation and automation platform with cryptographic verification
 
 - 🔄 Async BullMQ pipeline decouples request handling from background rendering & batch finalization
 - 🏗️ Monorepo architecture: service-layer abstractions, resource-oriented APIs, dashboard aggregation
@@ -93,6 +93,7 @@ A live multiplayer quiz platform with event-driven architecture.
 - 📡 **Sub-100ms** update propagation across concurrent sessions
 - 🔄 Room-based WebSocket management with disconnect recovery & state reconciliation
 - 🏆 Live scoring and real-time leaderboards
+- 📃 Integrated CertJs in Quiz Burst Backend showcasing CertJs Usecase  
 - 🌐 Live at [quizburst.hrishi-developer.in](https://quizburst.hrishi-developer.in)
 
 `Node.js` `Socket.IO` `React` `MongoDB`
