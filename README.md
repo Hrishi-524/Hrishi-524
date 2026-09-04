@@ -23,11 +23,12 @@ const hrishi = {
   education:  "B.E. Computer Engineering @ University Of Mumbai (CGPA: 9.5/10)",
   honors:     "AI & Machine Learning",
   location:   "Mumbai, India 🇮🇳",
-  currently:  ["Building CertJS — async document issuance platform"],
+  currently:  ["Maintaining CertJS — shipping new features on the async document issuance platform"],
   interests:  ["Distributed Systems", "Deep Learning", "Developer Tooling"],
   funFact:    "I built my own Git — yes, the version control system."
 };
 ```
+
 ## 🚀 Featured Projects
 
 <table>
@@ -70,15 +71,15 @@ A Git-inspired distributed version control & code hosting platform — built fro
 ### 📜 [CertJS](https://github.com/Hrishi-524/certjs)
 **Async Systems · Document Processing · Backend**
 
-Developer-first certificate generation platform with templates, batch processing, webhooks, and public verification.
+Developer-first certificate generation platform with templates, batch processing, webhooks, and public verification — completed and actively maintained.
 
-- Architected a developer-first certificate generation and automation platform with a monorepo-based architecture, processing bulk certificate requests through an asynchronous BullMQ pipeline that decouples request handling from background rendering and batch finalization.
-- Designed a production-oriented backend around service-layer abstractions, resource-oriented APIs, dashboard aggregation, and placeholder synchronization, replacing CRUD-based editor operations with backend state reconciliation to simplify frontend complexity.
-- Engineered a multi-stage worker pipeline for concurrent certificate rendering, ZIP archive generation, and artifact storage on AWS S3, incorporating atomic job coordination, configurable profiling, Promise-based template deduplication, and in-memory caching to eliminate redundant network operations.
-- Built a layered Next.js frontend using React Query, reusable component architecture, and centralized API abstractions, enabling backend-driven UI composition with scalable state management and type-safe client-server contracts.
-- Designed the platform for future SDK expansion by separating business logic from transport concerns, establishing REST APIs as the system of record while defining an architecture for a developer-focused JavaScript SDK.
-
-`Node.js` `PostgreSQL` `Drizzle ORM` `Sharp` `Express`
+- 🔄 Async BullMQ pipeline decouples request handling from background rendering & batch finalization
+- 🏗️ Monorepo architecture: service-layer abstractions, resource-oriented APIs, dashboard aggregation
+- 📦 Multi-stage worker pipeline for concurrent rendering, ZIP archive generation, and S3 artifact storage
+- ⚡ Promise-based template deduplication + in-memory caching to cut redundant work
+- 🐳 Fully dockerized (Turborepo-pruned multi-stage builds); Next.js frontend deployed separately
+- 🌐 Live at [certjs.hrishi-developer.in](https://certjs.hrishi-developer.in)
+`Node.js` `PostgreSQL` `Drizzle ORM` `BullMQ` `Sharp` `Express`
 
 </td>
 <td width="50%" valign="top">
@@ -97,85 +98,62 @@ A live multiplayer quiz platform with event-driven architecture.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🩸 Vein Visualization System
+**Computer Vision · Embedded Systems · Deep Learning**
+
+A real-time subcutaneous vein imaging device built on embedded hardware — 🥇 **1st Place & Gold Medal, Avishkar Research Convention** (Mumbai University, 500+ teams).
+
+- 📷 Raspberry Pi + NoIR camera for infrared vein capture
+- 🎛️ CLAHE-based contrast enhancement for low-visibility vein patterns
+- 🧠 U-Net segmentation model for real-time vein structure extraction
+- 🏅 State-level podium finish among 500+ competing teams
+
+`Python` `OpenCV` `U-Net` `Raspberry Pi`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏡 [Avora](https://github.com/Hrishi-524/Avora)
+**Full-Stack · MERN · UI/UX**
+
+My first full-stack project — a stays discovery & booking platform, and still the most colorful frontend I've shipped.
+
+- 🎨 React 19 + Material-UI + Tailwind CSS, with Mapbox-powered location search
+- 💳 Razorpay checkout woven into the booking flow
+- 🔐 JWT auth + bcrypt, with session handling across frontend and backend
+- 🌐 Deployed on Vercel (frontend) + Render (backend)
+- 🌐 Live at [avora.hrishi-developer.in](https://avora.hrishi-developer.in)
+
+`React` `Express` `MongoDB` `Tailwind CSS` `Razorpay`
+
+</td>
+</tr>
 </table>
 
 ---
 
 ## 🏆 Major Achievements
 
-| 🥇 | Event | Scale |
+| | Event | Scale |
 |---|---|---|
-| 🥇 1st Place | **Avishkar Research Convention** — Mumbai University | 500+ teams |
+| 🥇 1st Place | **Avishkar Research Convention** — Mumbai University (Gold Medal) | 500+ teams |
+| 🥇 1st Place | **VNPS 2026** *(Team Lead)* | — |
 | 🥇 1st Place | **Tech-A-Thon 25 Hackathon** | — |
-| 🥉 3rd Place | **Prakalp 3.0 and 4.0 Hackathon** *(Team Lead)* | — |
+| 🥉 3rd Place | **Prakalp 4.0 Hackathon** *(Team Lead)* | — |
+| 🥉 3rd Place | **Prakalp 3.0 Hackathon** | — |
 | 🥈 2nd Place | **RizviTank Ideathon** | — |
- - more such
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats-pi-snowy-86.vercel.app?user=Hrishi-524&theme=dark)](https://git.io/streak-stats)
-
-</div>
-<div align="center">
-  
-[![Hrishi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hrishi-524&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
+| 🔟 Top 10 | **InCubate 2025** — JIPMER & IIT Bombay | National MedTech Hackathon |
 
 ## 💼 Experience
 
-**Network Operations Intern** · Tata Tele Business Services *(Dec 2025 – Jan 2026)*
-
-- Onboarded **500+ enterprise devices** onto Zabbix for production telecom monitoring
-- Built VBA automation pipelines → MySQL/PostgreSQL, cutting manual reporting by **40%**
-- Diagnosed performance issues on Linux-based enterprise networking infrastructure
-
----
-
----
-
-## ⚡ Tech Arsenal
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Backend & Infrastructure**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
-
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**DevOps & Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
----
+**Winter Intern** · Tata Tele Business Services *(Dec 2025 – Jan 2026)*
+- Worked with Docker and Kubernetes, building container images and working with Kubernetes deployments and services while learning container orchestration and cloud-native infrastructure practices
+- Used SQL to query networking databases and extract operational data for VBA automation, reporting workflows, and downstream analysis/model-training use cases
+- Gained practical exposure to Linux server administration, system monitoring, troubleshooting, and enterprise server infrastructure
+- Onboarded 500+ enterprise client devices onto Zabbix, configuring monitoring and alerts across telecom infrastructure and automating data/reporting workflows using VBA, MySQL, and PostgreSQL, reducing manual reporting effort by 40%
 
 <div align="center">
 
