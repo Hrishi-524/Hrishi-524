@@ -79,6 +79,7 @@ Developer-first certificate generation platform with templates, batch processing
 - ⚡ Promise-based template deduplication + in-memory caching to cut redundant work
 - 🐳 Fully dockerized (Turborepo-pruned multi-stage builds); Next.js frontend deployed separately
 - 🌐 Live at [certjs.hrishi-developer.in](https://certjs.hrishi-developer.in)
+
 `Node.js` `PostgreSQL` `Drizzle ORM` `BullMQ` `Sharp` `Express`
 
 </td>
